@@ -1,3 +1,4 @@
+![Screenshot 2024-11-15 004423](https://github.com/user-attachments/assets/e53d85a1-acbf-4c56-b129-979547f3c82e)
 # Realtime Device Tracking
 
 This project is a real-time device tracking application built using Node.js, Express, Socket.io, and Leaflet for interactive maps. It allows users to track devices' locations in real-time on a map interface, making it ideal for logistics, fleet management, and personal tracking applications.
